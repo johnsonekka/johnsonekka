@@ -1,4 +1,4 @@
-#👋 Hi, I’m #@johnsonekka
+# 👋 Hi, I’m #@johnsonekka
 # 👀 I’m interested in webdevlopment 
 # 🌱 I’m currently learning MERN stack
 # 💞️ I’m looking to collaborate on projects 
