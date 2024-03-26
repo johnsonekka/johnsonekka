@@ -33,7 +33,7 @@ Check out my portfolio website to see some of my projects and explore my skills 
 - Email: work.johnsonekka@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/johnsonekka)
 - Twitter: [@johnson_ekka_](https://twitter.com/johnson_ekka_)
-- Instagram: 
+- Instagram: [@johnsonekk&](https://instagram.com/in/johnsonekka7)
 ## 😄 Pronouns
 
 My pronouns are: He/Him
