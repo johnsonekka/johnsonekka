@@ -15,14 +15,14 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 ## 🛠️ Technologies & Tools
 
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
+- MongoDB 🍃
+- Express.js: 🚀
+- React.js: ⚛️
+- Node.js: 🟢
+- HTML5: 🌐
+- CSS3: 🎨
+- Bootstrap: 🅱️
+- JavaScript: 🚀
 
 ## 💼 Portfolio
 
