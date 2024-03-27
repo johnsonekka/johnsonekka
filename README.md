@@ -39,8 +39,7 @@ My pronouns are: He/Him
 
 ## ⚡ Fun Fact
 
-Did you know? I love to explore new cuisines and try out different recipes in my free time!
+Did you know? I love to explore to watch football highlights in my free time 
 
 ---
 
-Feel free to customize this README file further to reflect your personality, experiences, and interests more accurately. Happy coding!
