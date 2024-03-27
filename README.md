@@ -1,5 +1,3 @@
-Sure, here's a professional README file for your GitHub profile:
-
 ---
 
 # 👋 Hi, I’m Johnson Ekka
