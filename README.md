@@ -15,12 +15,13 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,redux,,regex,nodejs,git,github" />
-    <img src="https://skillicons.dev/icons?i=vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,redux,regex,nodejs,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,postman" /><br>
     <img src="https://skillicons.dev/icons?i=windows" />
   </a>
 </p>
+
 
 ## 💼 Portfolio
 
