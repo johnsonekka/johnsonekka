@@ -1,4 +1,4 @@
----
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile)](https://git.io/typing-svg)
 
 # 👋 Hi, I’m Johnson Ekka
 
@@ -13,14 +13,14 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 ## 🛠️ Technologies & Tools
 
-- MongoDB 🍃
-- Express.js: 🚀
-- React.js: ⚛️
-- Node.js: 🟢
-- HTML5: 🌐
-- CSS3: 🎨
-- Bootstrap: 🅱️
-- JavaScript: 🚀
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,redux,,regex,nodejs,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+</p>
 
 ## 💼 Portfolio
 
@@ -28,10 +28,10 @@ Check out my portfolio website to see some of my projects and explore my skills 
 
 ## 📫 Contact Me
 
-- Email: work.johnsonekka@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/johnsonekka)
-- Twitter: [@johnson_ekka_](https://twitter.com/johnson_ekka_)
-- Instagram: [@johnsonekka7](https://instagram.com/johnsonekka7)
+[![Gmail Icon](https://skillicons.dev/icons?i=gmail)](mailto:work.johnsonekka@gmail.com)
+[![LinkedIn Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johnsonekka)
+[![Twitter Icon](https://skillicons.dev/icons?i=twitter)](https://twitter.com/johnson_ekka_)
+[![Instagram Icon](https://skillicons.dev/icons?i=instagram)](https://instagram.com/johnsonekka7)
 
 ## 😄 Pronouns
 
@@ -39,7 +39,6 @@ My pronouns are: He/Him
 
 ## ⚡ Fun Fact
 
-Did you know? I love to explore to watch football highlights in my free time 
+Did you know? I love to watch football highlights in my free time.
 
----
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
