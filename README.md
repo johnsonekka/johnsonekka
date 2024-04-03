@@ -42,4 +42,4 @@ My pronouns are: He/Him
 
 Did you know? I love to watch football highlights in my free time.
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)](https://github.com/johnsonekka)
